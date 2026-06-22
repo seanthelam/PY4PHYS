@@ -1,2 +1,2 @@
 # PY4PHYS
-Computational Physics, from Introductory Mechanics to Quantum Mechanics
+A progression of computational physics in Python, from classical kinematics to upper-level quantum mechanics.
