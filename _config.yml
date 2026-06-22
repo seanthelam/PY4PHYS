@@ -1,0 +1,6 @@
+# Book settings - PY4PHYS: A Python-Based Approach to Learning Computational Physics
+title: "PY4PHYS: A Python-Based Approach to Learning Computational Physics"
+author: "Sean D. Lam"
+copyright: "2026"
+
+# Force re-execution of notebooks on each build
